@@ -9,7 +9,7 @@
   
 4 - Iniciar Firewall: /etc/init.d/firewall start
 
-5 - Verificar Funcionamemto: iptables -L
+5 - Verificar Funcionamento: iptables -L
 
 Funcionamento Esperado:
 
