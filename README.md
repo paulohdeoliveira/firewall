@@ -4,7 +4,8 @@
 
 2 - Conceder Permissão de Execução: chmod +x firewall.sh
 
-3 - Criar Soft Link dentro de /etc/rc5.d/: 
+3 - Criar Soft Link dentro de /etc/rc5.d/: <br>
+
 	cd /etc/rc5.d
 	ln -s ../init.d/firewall.sh S21firewall.sh
   
